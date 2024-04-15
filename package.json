@@ -1,0 +1,16 @@
+{
+  "name": "kas1234-appl-todos",
+  "version": "1.0.0",
+  "description": "Making an app for Todos list",
+  "main": "index.js",
+  "type" : "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
